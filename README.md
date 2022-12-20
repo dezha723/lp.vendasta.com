@@ -1,2 +1,2 @@
-# lp.vendasta.com
+# tmp-nft-partner-api.moonpaycloud.com
 subdomain takerover
